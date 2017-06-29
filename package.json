@@ -1,6 +1,6 @@
 {
   "name": "gimie.hostname",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/machellerogden/gimie.hostname.git"
   },
-  "keywords": ["gimie"],
+  "keywords": [
+    "gimie"
+  ],
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
