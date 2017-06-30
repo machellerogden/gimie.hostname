@@ -4,4 +4,6 @@ function hostname() {
     return require('os').hostname();
 }
 
-module.exports = hostname;
+module.exports = {
+    hostname
+};
